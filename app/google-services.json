@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666182576464",
+    "project_id": "misaludev3",
+    "storage_bucket": "misaludev3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666182576464:android:e8499e06e47a1bd122a455",
+        "android_client_info": {
+          "package_name": "com.example.misaludev3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRM0ngyTE2LnEl8edtBcbgt759VfK4GgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">MiSaludEv3</string>
+    <string name="misalud">MiSalud</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="no_estas_registrado_registrate">¿No estas registrado? Registrate</string>
+    <string name="home">home</string>
+    <string name="recordatorio">recordatorio</string>
+    <string name="rutina">rutina</string>
+    <string name="registrar_usuario">Registrar Usuario</string>
+    <string name="correo_electronicoo">Correo Electronico</string>
+    <string name="contrase_aa">Contraseña</string>
+    <string name="confirmar_contrase_a">Confirmar Contraseña</string>
+    <string name="registrar_usuarioo">Registrar usuario</string>
+    <string name="nuestra_aplicacion_ayudara_a_que_tengas_un_horario_mas_saludable_y_sana">Nuestra aplicacion ayudara a que tengas un horario mas saludable y sana</string>
+    <string name="ademas_tenemos_funcionalidad_eficientes_para_la_facilidad_del_usuario">ademas tenemos funcionalidad eficientes para la facilidad del usuario</string>
+    <string name="configuracion_para_recordatorio_y_sus_rutinas">configuracion para recordatorio y sus rutinas</string>
+    <string name="recibe_notificaciones_para_recordar_el_consumo_diario_de_agua">recibe notificaciones para recordar el consumo diario de agua</string>
+    <string name="configuracion_especial_para_tus_necesidades">configuracion especial para tus necesidades</string>
+    <string name="configuracion_de_rutinas">Configuracion de Rutinas</string>
+    <string name="agregar_rutina">Agregar Rutina</string>
+    <string name="abdominales">Abdominales</string>
+    <string name="estado_activo">Estado Activo</string>
+    <string name="rutinaa">Rutina</string>
+    <string name="eliminar_rutina">Eliminar Rutina</string>
+    <string name="guardar">Guardar</string>
+    <string name="rutina_abdominal">Rutina Abdominal</string>
+    <string name="menu">Menu</string>
+    <string name="misaludd">MiSalud</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+    <string name="nuestra_aplicacion">Nuestra Aplicacion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recordatorio_de_hidratacion">Recordatorio de Hidratacion</string>
+    <string name="mensaje_sobre_tu_hidratacion">Mensaje sobre tu Hidratacion</string>
+    <string name="establecer_nueva_rutina">Establecer Nueva Rutina</string>
+    <string name="gestionar_tus_recordatorios">Gestionar Tus Recordatorios</string>
+    <string name="homee">Home</string>
+    <string name="hidratacion">Hidratacion</string>
+    <string name="rutinaaa">Rutina</string>
+    <string name="establecer_nuevo_recordatorio">Establecer Nuevo Recordatorio</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="cerrar_sesionn">Cerrar Sesion</string>
+</resources>

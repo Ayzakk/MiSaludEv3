@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/img1">
+
+    <!-- Espacio inicial más amplio -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="150dp" />
+
+    <!-- Título de recordatorios -->
+    <TextView
+        android:id="@+id/tv_recordatorio_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingBottom="16dp"
+        android:text="@string/recordatorio_de_hidratacion"
+        android:textColor="@color/black"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center" />
+
+
+    <LinearLayout
+        android:id="@+id/recordatorioBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="#2A2828"
+        android:gravity="center"
+        android:layout_marginTop="40dp">
+
+        <!-- Texto sobre el recordatorio de agua -->
+        <TextView
+            android:id="@+id/tv_recordatorio_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/mensaje_sobre_tu_hidratacion"
+            android:textSize="16sp"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:paddingBottom="16dp" />
+
+        <!-- Botón para establecer una nueva rutina -->
+        <Button
+            android:id="@+id/btn_nuevo_recordatorio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/establecer_nuevo_recordatorio"
+            android:textColor="@color/white"
+            android:background="#1976D2"
+            android:padding="12dp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Botón para gestionar recordatorios -->
+        <Button
+            android:id="@+id/btn_gestionar_recordatorios"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/gestionar_tus_recordatorios"
+            android:textColor="@color/white"
+            android:background="#1976D2"
+            android:padding="12dp" />
+    </LinearLayout>
+</LinearLayout>
